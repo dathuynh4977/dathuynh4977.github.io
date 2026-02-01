@@ -23,7 +23,7 @@ repository               : "dathuynh4977/dathuynh4977.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Dat Huynh"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science student at the University of Houston. Interested in software engineering, databases, and GPU programming."
